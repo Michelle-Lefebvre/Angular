@@ -1,0 +1,8 @@
+h1, p {
+    margin:auto;
+    text-align: center;
+}
+a {
+    color: magenta;
+    text-decoration: underline;
+}
